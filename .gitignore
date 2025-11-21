@@ -1,0 +1,4 @@
+# All files with extension .txt are ignored
+*.txt
+!3.txt
+h.html 
